@@ -1,0 +1,27 @@
+
+Git Commands 
+
+CLONING
+git clone repo_url 
+
+PULLING
+git pull <-- in the project directory
+
+PUSHING
+git add . <-- in the project directory 
+git commit -m "YOUR_MESSAGE"
+git push 
+
+
+TERMINAL COMMANDS
+
+clear
+cd 
+mkdir 
+touch 
+
+rm -rf <-- be careful of this one 
+
+
+
+

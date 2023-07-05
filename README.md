@@ -1,3 +1,4 @@
 # Howpy2022.github.io 
 
-Hello World
+Hello World.
+Bye!
